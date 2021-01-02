@@ -4,12 +4,8 @@ import random
 import os
 import sys
 import ctypes
-#from colorama import Fore, Back, Style
-#from pynput.keyboard import Controller, Key
 from getpass import getpass
 import stdiomask
-
-#keyboard = Controller()
 
 a = 0
 os.system("cls")
